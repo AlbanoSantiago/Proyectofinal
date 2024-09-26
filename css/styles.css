@@ -82,7 +82,8 @@ p  {
 }
 
 .total {
-  color: yellow;
+  color: black;
+  background-color: yellow;
 }
 .borde3{
   margin-left: 30%;
