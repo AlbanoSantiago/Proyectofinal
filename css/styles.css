@@ -1,5 +1,7 @@
 /* Estilos Generales */
-
+body {
+  background-color: rgb(3, 3, 3);
+}
 .nav{
   background-color: green;
   padding: 1rem;
