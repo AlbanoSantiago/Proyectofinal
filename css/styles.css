@@ -80,7 +80,10 @@ p  {
   padding: 1rem;
   margin: 50px;
 }
-  
+
+.total {
+  color: yellow;
+}
 .borde3{
   margin-left: 30%;
   background-color: green;
