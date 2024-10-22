@@ -1,0 +1,7 @@
+[
+    { "id": "producto-01", "titulo": "Guantes de MMA", "precio": 45.00, "img": "./img/guante.png" },
+    { "id": "producto-02", "titulo": "Espinilleras de combate", "precio": 30.00, "img": "./img/espinillera.png" },
+    { "id": "producto-03", "titulo": "Bucal", "precio": 20.00, "img": "./img/bucal.png" },
+    { "id": "producto-04", "titulo": "Short de entrenamiento", "precio": 25.00, "img": "./img/licra.png" },
+    { "id": "producto-05", "titulo": "Rash de entrenamiento", "precio": 45.00, "img": "./img/playera-algodon.jpeg" }
+]
